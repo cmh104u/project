@@ -1,0 +1,1 @@
+這個作業只有修改Employee.java，就是加上getPaymentAmount()這個函式而已

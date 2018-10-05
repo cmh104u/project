@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512544881 source:c:\users\andy\desktop\cross\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<climits>
+

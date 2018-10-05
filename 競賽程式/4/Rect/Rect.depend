@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512484174 source:c:\users\andy\desktop\rect\main.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+
